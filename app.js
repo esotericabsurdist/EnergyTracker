@@ -30,6 +30,22 @@ app.get('/index', function(req, res){
 });
 //==============================================================================
 
+/*
+// TODO scrape stock data using python. 
+var PythonShell = require('python-shell');
+
+PythonShell.run('my_script.py', function (err) {
+  if (err) throw err;
+  console.log('finished');
+});
+
+*/
+
+
+
+
+
+
 //=============================================================================
 //                          error handlers
 // development error handler
